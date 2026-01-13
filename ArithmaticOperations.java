@@ -6,4 +6,8 @@ public class ArithmaticOperations{
     public static void sum(float a,float b){
         System.out.println("Sum is: "+a+b);
     }
+
+    public static void division(double a,double b){
+        
+    }
 }
