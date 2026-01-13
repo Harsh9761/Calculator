@@ -1,9 +1,9 @@
-public class ArithmaticOperations{
+public class ArithmaticOperations {
     public static void main(String[] args) {
-        
+        System.out.println(sum(238934578L, 12345667L));
     }
 
-    public static void sum(int a,int b){
-        System.out.println("Sum is: "+a+b);
+    public static long sum(long a, long b) {
+        return a + b;
     }
 }
