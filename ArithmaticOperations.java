@@ -3,7 +3,7 @@ public class ArithmaticOperations{
         
     }
 
-    public static void sum(int a,int b){
+    public static void sum(float a,float b){
         System.out.println("Sum is: "+a+b);
     }
 }
