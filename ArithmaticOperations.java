@@ -11,4 +11,9 @@ public class ArithmaticOperations{
         System.out.println("Difference is: " + (a - b));
         return a - b;
     }
+    public static void division(double a,double b){
+        System.out.println("Division is: "+a/b);
+    }
 }
+    
+
