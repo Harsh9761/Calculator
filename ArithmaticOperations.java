@@ -8,6 +8,6 @@ public class ArithmaticOperations{
     }
 
     public static void division(double a,double b){
-        
+        System.out.println("Division is: "+a/b);
     }
 }
