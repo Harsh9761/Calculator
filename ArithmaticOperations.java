@@ -7,7 +7,8 @@ public class ArithmaticOperations{
         System.out.println("Sum is: " + a + b);
     }
 
-    public static void subtraction(int a, int b) {
+    public static int subtraction(int a, int b) {
         System.out.println("Difference is: " + (a - b));
+        return a - b;
     }
 }
